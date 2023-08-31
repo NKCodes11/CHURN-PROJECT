@@ -1,7 +1,7 @@
 # CHURN Project on Telecom Data - LOGISTIC REGRESSION
 For this churn project I will performing Exploratory Data Analysis (EDA) on a Telecom dataset to understand the data and derive insights.
 This Dataset includes 21 different columns. Below is the definition of each column:
-
+ 
 Customer ID  - Each Customer recieves a unique ID
 Gender - Male or Female
 Senior Citizen - Whether a customer is a senioer citizen, ie over the age of 65
